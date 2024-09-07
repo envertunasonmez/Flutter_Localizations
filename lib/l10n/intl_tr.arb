@@ -1,4 +1,13 @@
 {
+    "@@locale":"tr",
     "language":"Türkçe",
-    "welcome":"Anasayfaya hoş geldin"
+    "onboardingTitle1":"Sayfa 1 ",
+    "onboardingDescription1":"OnBoarding ve Dil Desteği",
+    "onboardingTitle2":"Sayfa 2",
+    "onboardingDescription2":"OnBoarding ve Dil Desteği",
+    "onboardingTitle3":"Sayfa 3",
+    "onboardingDescription3":"OnBoarding ve Dil Desteği",
+    "selectedLanguage":"Türkçe",
+    "turkishButton": "Türkçe",
+    "englishButton": "English"
 }

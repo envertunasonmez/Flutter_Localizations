@@ -1,4 +1,13 @@
 {
+    "@@locale":"en",
     "language":"English",
-    "welcome":"Welcome to Home Screen"
+    "onboardingTitle1":"View 1",
+    "onboardingDescription1":"Onboarding and Language Support",
+    "onboardingTitle2":"View 2",
+    "onboardingDescription2":"Onboarding and Language Support",
+    "onboardingTitle3":"View 3",
+    "onboardingDescription3":"Onboarding and Language Support",
+    "selectedLanguage":"English",
+    "turkishButton": "Turkish",
+    "englishButton": "English"
 }
