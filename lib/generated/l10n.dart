@@ -60,11 +60,91 @@ class S {
     );
   }
 
-  /// `Welcome to Home Screen`
-  String get welcome {
+  /// `View 1`
+  String get onboardingTitle1 {
     return Intl.message(
-      'Welcome to Home Screen',
-      name: 'welcome',
+      'View 1',
+      name: 'onboardingTitle1',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Onboarding and Language Support`
+  String get onboardingDescription1 {
+    return Intl.message(
+      'Onboarding and Language Support',
+      name: 'onboardingDescription1',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `View 2`
+  String get onboardingTitle2 {
+    return Intl.message(
+      'View 2',
+      name: 'onboardingTitle2',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Onboarding and Language Support`
+  String get onboardingDescription2 {
+    return Intl.message(
+      'Onboarding and Language Support',
+      name: 'onboardingDescription2',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `View 3`
+  String get onboardingTitle3 {
+    return Intl.message(
+      'View 3',
+      name: 'onboardingTitle3',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Onboarding and Language Support`
+  String get onboardingDescription3 {
+    return Intl.message(
+      'Onboarding and Language Support',
+      name: 'onboardingDescription3',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `English`
+  String get selectedLanguage {
+    return Intl.message(
+      'English',
+      name: 'selectedLanguage',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Turkish`
+  String get turkishButton {
+    return Intl.message(
+      'Turkish',
+      name: 'turkishButton',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `English`
+  String get englishButton {
+    return Intl.message(
+      'English',
+      name: 'englishButton',
       desc: '',
       args: [],
     );
